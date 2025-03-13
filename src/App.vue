@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col bg-gradient-to-br from-[#00668a] to-[#1b8481] min-h-screen">
+  <div class="flex flex-col bg-gradient-to-br from-[#00668a] to-[#1b8481] min-h-screen font-Roboto">
     <SiteNavigation />
     
     <RouterView v-slot="{ Component }">
